@@ -1,13 +1,17 @@
-# Agent Marketplace
+# Wave Two
 
-Agent Marketplace is a working title for a B2B marketplace for complete, portable digital-employee packages. Businesses will be able to acquire standardized roles that they control across supported AI models and harnesses, with documented permissions and customer-approved state continuity.
+AI employees that belong to you, not a platform.
 
-The private marketplace release candidate is built and under QA. It is not publicly launched and has no marketplace customers or revenue. Protocol 1.0.0rc1 and three demonstrable employee packages provide technical proof. A US patent application covering the protocol work has been filed; no patent grant is claimed.
+Wave Two is the current name of the venture previously submitted as Agent Marketplace. Businesses can license complete Digital Employee software to operate in their supported AI setup, or order scoped results from independent creators who manage the work. Wave Two provides the marketplace and minimum standard, not an agency delivering every order.
 
-The venture is raising a USD 500,000 pre-seed round, with a USD 250,000 preferred first close. Founder Shehryar Ali is based in Lahore and is willing to establish and build the venture in a funded GCC market, subject to investment and legal steps.
+[View the public product preview](https://wave2.shehryartali.com). Marketplace and Admin implementation, the Protocol and three technical employee packages are available. The preview catalogue is illustrative. There are no independent marketplace creators, buyers or revenue yet, and commercial qualification is separate from technical implementation. A US patent application for the Protocol mechanism was filed on October 2, 2026. No patent grant is claimed.
 
-[Read the current GCC investor deck](https://github.com/Shaisolaris/agent-marketplace-investor-deck/blob/main/Agent-Marketplace-Pitch-Deck-GCC-v3.pdf).
+Creators supply memory modules under the minimum standard. Customer-controlled private working state, runtime independence and continuity of approved state are tested for declared supported setups. This does not promise universal compatibility or a proprietary Wave Two memory engine.
 
-Founder: [Shehryar Ali](https://www.linkedin.com/in/shehryartali/) | [shaisolaris@gmail.com](mailto:shaisolaris@gmail.com)
+The current pre-seed round target is USD 500,000 for twelve months of marketplace validation. USD 250,000 is the minimum viable close for a narrower six-month plan. Later expansion funding is separate. The venture is currently unincorporated. Founder Shehryar Ali is based in Lahore and can establish and relocate to a funded market, subject to the appropriate corporate and legal steps.
 
-This repository is a public investor-materials entry point, not a live marketplace product website or source-code release.
+[Read the current investor deck](https://raw.githubusercontent.com/Shaisolaris/agent-marketplace-investor-deck/main/Wave-Two-Investor-Deck.pdf).
+
+Founder: [Shehryar Ali](https://www.linkedin.com/in/shehryartali/). Contact: [shaisolaris@gmail.com](mailto:shaisolaris@gmail.com). [Company LinkedIn Page](https://www.linkedin.com/company/agent-marketplace-portable/).
+
+This repository is a public investor-materials entry point, not a product source-code release.
